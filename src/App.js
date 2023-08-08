@@ -105,7 +105,7 @@ useEffect(() => {
         <input
           type="text"
           className=""
-          placeholder="Enter The Task"
+          placeholder="Enter Your Task"
           value={inputvalue}
           
           onChange={(e) => setInputvalue(e.target.value)}
